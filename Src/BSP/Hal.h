@@ -2,7 +2,7 @@
  @Project	: 
  @File 		: 
  @Details  	: All Ports and peripherals configuration                    
- @Author	: 
+ @Author	: Fong FH
  @Hardware	: 
  
  --------------------------------------------------------------------------

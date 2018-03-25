@@ -1,8 +1,8 @@
 /*****************************************************************************
  @Project	: 
  @File 		: main.c
- @Details  	: Main entry. This example will toggle on-board LED each 100ms              
- @Author	: lcgan
+ @Details  	: EXTI on STM32F103RB Nucleo              
+ @Author	: Fong FH
  @Hardware	: STM32
  
  --------------------------------------------------------------------------
